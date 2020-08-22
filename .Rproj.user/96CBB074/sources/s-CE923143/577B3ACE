@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595431228698.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "6|46|13|0|\n15|82|27|0|\n29|94|32|0|\n34|66|42|0|\n44|58|53|0|\n55|54|93|0|\n96|65|101|0|\n103|92|109|0|\n112|64|115|0|\n117|111|124|0|\n127|88|132|0|\n134|130|154|0|\n157|93|164|0|\n",
+    "hash" : "0",
+    "id" : "577B3ACE",
+    "lastKnownWriteTime" : 1597396568,
+    "last_content_update" : 1597744476860,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/fiducial.R",
+    "project_path" : "fiducial.R",
+    "properties" : {
+        "cursorPosition" : "176,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

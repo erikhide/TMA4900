@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596883367748.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "3|45|5|0|\n7|57|9|0|\n22|47|30|0|\n32|48|44|0|\n46|53|58|0|\n61|52|113|0|\n115|42|125|0|\n",
+    "hash" : "134722512",
+    "id" : "1F5FD7D3",
+    "lastKnownWriteTime" : 1598118857,
+    "last_content_update" : 1598118857767,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/estimator_error.R",
+    "project_path" : "estimator_error.R",
+    "properties" : {
+        "cursorPosition" : "142,16",
+        "scrollLine" : "17"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

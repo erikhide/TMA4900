@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594391587328.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "7|46|19|0|\n21|66|53|0|\n55|71|87|0|\n89|66|100|0|\n102|27|131|0|\n134|63|157|0|\n159|64|185|0|\n187|47|205|0|\n207|50|233|0|\n236|41|239|0|\n241|57|248|0|\n250|58|258|0|\n261|62|267|0|\n269|84|275|0|\n277|85|285|0|\n288|58|292|0|\n294|80|300|0|\n303|41|308|0|\n310|63|316|0|\n318|64|326|0|\n329|44|335|0|\n337|66|343|0|\n345|67|353|0|\n",
+    "hash" : "0",
+    "id" : "FFF7A2AE",
+    "lastKnownWriteTime" : 1596992286,
+    "last_content_update" : 1598118569922,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/bivariate_normal.R",
+    "project_path" : "bivariate_normal.R",
+    "properties" : {
+        "cursorPosition" : "301,0",
+        "scrollLine" : "288",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

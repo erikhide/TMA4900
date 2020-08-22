@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594387509462.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "7|96|76|0|\n78|57|83|0|\n85|76|106|0|\n108|82|131|0|\n133|119|155|0|\n157|65|176|0|\n178|98|217|0|\n",
+    "hash" : "0",
+    "id" : "5E566349",
+    "lastKnownWriteTime" : 1597347500,
+    "last_content_update" : 1597347500991,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/confidence_intervals.R",
+    "project_path" : "confidence_intervals.R",
+    "properties" : {
+        "cursorPosition" : "277,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596886549952.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "4|65|7|0|\n9|72|16|0|\n18|73|26|0|\n29|67|32|0|\n34|83|53|0|\n55|84|63|0|\n66|91|71|0|\n73|102|93|0|\n96|96|103|0|\n105|104|116|0|\n118|107|138|0|\n",
+    "hash" : "0",
+    "id" : "87B03D1F",
+    "lastKnownWriteTime" : 1597775701,
+    "last_content_update" : 1597775701561,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/Bayes_estimate.R",
+    "project_path" : "Bayes_estimate.R",
+    "properties" : {
+        "cursorPosition" : "168,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

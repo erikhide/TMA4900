@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595695111140.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|53|5|0|\n7|40|10|0|\n12|68|15|0|\n17|55|20|0|\n22|48|26|0|\n28|80|31|0|\n33|74|37|0|\n39|37|47|0|\n49|63|64|0|\n",
+    "hash" : "0",
+    "id" : "91C64B82",
+    "lastKnownWriteTime" : 1596741709,
+    "last_content_update" : 1597391410731,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/util.R",
+    "project_path" : "util.R",
+    "properties" : {
+        "cursorPosition" : "65,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

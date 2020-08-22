@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595419352015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "6|50|72|0|\n74|60|141|0|\n143|61|155|0|\n157|60|169|0|\n172|76|327|0|\n348|85|413|0|\n",
+    "hash" : "0",
+    "id" : "7AD40A3F",
+    "lastKnownWriteTime" : 1597840688,
+    "last_content_update" : 1597840688327,
+    "path" : "~/NTNU/12semester/Masteroppgave/code_R/estimator_histograms.R",
+    "project_path" : "estimator_histograms.R",
+    "properties" : {
+        "cursorPosition" : "469,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
